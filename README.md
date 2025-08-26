@@ -34,3 +34,15 @@ The chatbot provides an interactive user interface where users can type queries 
     │── script.js         # JavaScript logic for chatbot responses
     
     │── README.md   
+
+🔮 Future Enhancements
+
+   🌐 Connect chatbot with an API for dynamic responses.
+
+   🤖 Add NLP (Natural Language Processing) for better interaction.
+
+   🎤 Enable voice-based chatbot interaction.
+
+   🗄️ Store chat history in local storage or database.
+
+
