@@ -8,7 +8,24 @@ The chatbot provides an interactive user interface where users can type queries 
 🚀 Features
 
    🖥️ Interactive UI – Clean and responsive chat interface.
+   
    💡 Rule-based responses – Provides predefined answers to user queries.
+   
    ⚡ Lightweight – Built only with HTML, CSS, and JavaScript.
+   
    📱 Responsive Design – Works on desktop and mobile devices.
+   
    🎨 Customizable – Easy to modify styles and chatbot responses.
+
+🛠️ Tech Stack
+
+      Frontend: HTML, CSS
+
+      Logic: JavaScript
+
+📂 Project Structure
+    chatbot-project/
+    │── index.html        # Main HTML file
+    │── style.css         # Stylesheet for chatbot UI
+    │── script.js         # JavaScript logic for chatbot responses
+    │── README.md   
