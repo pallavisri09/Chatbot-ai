@@ -24,8 +24,13 @@ The chatbot provides an interactive user interface where users can type queries 
       Logic: JavaScript
 
 📂 Project Structure
+    
     chatbot-project/
+    
     │── index.html        # Main HTML file
+    
     │── style.css         # Stylesheet for chatbot UI
+    
     │── script.js         # JavaScript logic for chatbot responses
+    
     │── README.md   
