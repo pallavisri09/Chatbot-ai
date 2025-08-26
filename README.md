@@ -37,12 +37,12 @@ The chatbot provides an interactive user interface where users can type queries 
 
 🔮 Future Enhancements
 
-   🌐 Connect chatbot with an API for dynamic responses.
+     🌐 Connect chatbot with an API for dynamic responses.
 
-   🤖 Add NLP (Natural Language Processing) for better interaction.
+     🤖 Add NLP (Natural Language Processing) for better interaction.
 
-   🎤 Enable voice-based chatbot interaction.
+     🎤 Enable voice-based chatbot interaction.
 
-   🗄️ Store chat history in local storage or database.
+     🗄️ Store chat history in local storage or database.
 
 
