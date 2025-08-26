@@ -7,15 +7,15 @@ The chatbot provides an interactive user interface where users can type queries 
 
 🚀 Features
 
-   🖥️ Interactive UI – Clean and responsive chat interface.
+      🖥️ Interactive UI – Clean and responsive chat interface.
    
-   💡 Rule-based responses – Provides predefined answers to user queries.
+      💡 Rule-based responses – Provides predefined answers to user queries.
    
-   ⚡ Lightweight – Built only with HTML, CSS, and JavaScript.
+      ⚡ Lightweight – Built only with HTML, CSS, and JavaScript.
    
-   📱 Responsive Design – Works on desktop and mobile devices.
+      📱 Responsive Design – Works on desktop and mobile devices.
    
-   🎨 Customizable – Easy to modify styles and chatbot responses.
+      🎨 Customizable – Easy to modify styles and chatbot responses.
 
 🛠️ Tech Stack
 
